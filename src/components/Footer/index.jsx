@@ -60,7 +60,7 @@ const Footer = ({
       <div className=' footer-bottom__contact'>
         <a
           className='footer-contact__github'
-          href='https://github.com/futdevelop'
+          href='https://github.com/melnichukmykola'
           target='_blank'
         >
           <Icon

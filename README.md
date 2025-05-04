@@ -1,11 +1,52 @@
-# War App
+# 🪖 War App — War Statistics in Ukraine
 
-An application that allows you to see the statistics of the war in Ukraine for any day
+> **War App** is a web application that allows you to view detailed statistics about the war in Ukraine for any specific day, using public data via Monobank API.
 
-# About The Project
+---
 
-Due to the fact that now there is a war in Ukraine, I decided to create such a unique and beatiful project, that allows you to evaluate the real situation in Ukraine. You can easilly get information for any day. And, of course, send a feedback to author.
+## 🔗 Live Demo
 
-# How to Install and Run the Project
+👉 [Click here to view the live site](https://melnichukmykola.github.io/warapp-react/)
 
-Coming Soon!
+---
+
+## 🛠️ Technologies Used
+
+- 🧱 **HTML**
+- 🎨 **CSS** + **Sass**
+- ⚛️ **React**
+- ⚡ **Vite**
+- 💳 **Monobank API**
+
+---
+
+## 🚀 Getting Started
+
+### 🔁 1. Clone the repository
+
+```bash
+git clone https://github.com/MelnichukMykola/warapp-react.git
+cd warapp-react
+```
+
+### 📦 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 🧪 3. Run in development mode
+
+```bash
+npm run dev
+```
+
+### 🏗️ 4. Build for production
+
+```bash
+npm run build
+```
+
+## 💙 Support Ukraine
+
+Made with love for Ukraine 🇺🇦
