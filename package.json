@@ -1,5 +1,5 @@
 {
-  "homepage": "https://futdevelop.github.io/warapp-react/",
+  "homepage": "https://mykolamelnichuk.github.io/warapp-react/",
   "name": "warapp-react",
   "private": true,
   "version": "0.0.0",
@@ -21,7 +21,6 @@
     "i18next-browser-languagedetector": "^7.1.0",
     "i18next-http-backend": "^2.3.1",
     "nanoid": "^5.0.4",
-    "node-sass": "^9.0.0",
     "primereact": "^10.0.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -34,7 +33,7 @@
     "redux": "^5.0.1",
     "reselect": "^5.1.0",
     "rodal": "^2.1.0",
-    "sass": "^1.69.5",
+    "sass": "^1.87.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^6.1.1",
     "yup": "^1.3.2"
