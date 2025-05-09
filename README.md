@@ -15,6 +15,7 @@
 - 🧱 **HTML**
 - 🎨 **CSS** + **Sass**
 - ⚛️ **React**
+- 🔁 **Redux Toolkit**
 - ⚡ **Vite**
 - 💳 **Monobank API**
 
